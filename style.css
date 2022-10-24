@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(166, 90, 58);
+    background-image: url("https://ibb.co/9s2w9x7");
+    background-color: #acacac;
+}
+h1 {
+    text-align: justify;
+    -webkit-text-stroke: 2px black;
+    font-size: 3em;
+    -webkit-text-fill-color: rgb(255, 255, 255);
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    border: 3px solid rgb(18, 18, 18);
+}
+#DatingScoutSite {
+    text-align: right;
+}
+#Guy{
+    text-align: left;
+    width: 100%;
+    height: 50%;
+    position: sticky;
+    top: 0;
+}
+article {
+    text-align: justify;
+    flex-basis: 60%;
+    margin-right: 10px;
+    font-family: "Monaco", "Courier New", monospace;
+    background-color: rgb(19, 19, 19);
+    color: rgb(212, 212, 212);
+    text-align: center;
+}
